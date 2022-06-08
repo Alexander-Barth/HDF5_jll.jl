@@ -4,5 +4,5 @@ git-tree-sha1 = "086265a22ee20d4045c257143eef6e79a825e154"
 os = "windows"
 
     [[HDF5.download]]
-    sha256 = "dcbd6e4492e841343b21e10b7e979fcd48c670a2f67734fff93d25756219cd50"
+    sha256 = "06bc1c97b4cfc02b7abd89b7af14a26263c3444480148361284065f10b5de025"
     url = "https://github.com/Alexander-Barth/HDF5_jll.jl/releases/download/HDF5-v1.12.2+0/HDF5.v1.12.2.x86_64-w64-mingw32.tar.gz"
