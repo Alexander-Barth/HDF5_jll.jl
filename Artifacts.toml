@@ -1,0 +1,8 @@
+[[HDF5]]
+arch = "x86_64"
+git-tree-sha1 = "086265a22ee20d4045c257143eef6e79a825e154"
+os = "windows"
+
+    [[HDF5.download]]
+    sha256 = "1ace10efe0a80a36f954cd9fb7285794a2464d1dec3a248e9fd42789a29b6872"
+    url = "https://github.com/Alexander-Barth/HDF5_jll.jl/releases/download/HDF5-v1.12.1+1/HDF5.v1.12.1.x86_64-w64-mingw32.tar.gz"
